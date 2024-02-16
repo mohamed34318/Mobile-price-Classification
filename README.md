@@ -38,3 +38,6 @@ Bob wants to find out some relation between features of a mobile phone(eg:- RAM,
     <li>price_range : This is the target variable with value of 0(low cost), 1(medium cost), 2(high cost) and 3(very high cost) </li>
 </ul>
 </p>
+
+<P>the Model Can Now Predict Price of mobile where it have a score : 1.0 </P>
+<P>Thank you</P>
